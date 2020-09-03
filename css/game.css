@@ -1,0 +1,40 @@
+h1 {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.miss {
+  background-color: red;
+}
+
+.btn-top {
+  margin-top: 50px;
+}
+
+.btn-left {
+  margin-left: 20px;
+}
+
+.text {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.text-color {
+  color: green;
+}
